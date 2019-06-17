@@ -57,10 +57,11 @@ if __name__ == '__main__':
 
 ```
 
-## output
+## Input
 Photo by [rawpixel.com](https://www.pexels.com/@rawpixel?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/casual-cheerful-daylight-friends-541518/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 ![sample_picture](picture/sample_picture.jpg)
 
+## output
 person0.jpg  
 ![person0](picture/person0.jpg)
 
