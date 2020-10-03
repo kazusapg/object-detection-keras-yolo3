@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 tensorflow = "==1.*"
-keras = "*"
+keras = "==2.3.1"
 pillow = "*"
 
 [requires]
