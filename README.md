@@ -2,6 +2,8 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
+**This repository is no longer update.**
+
 
 This script uses [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3) to detect 
 the top left coordinates, width and height of the objects in the image and 
